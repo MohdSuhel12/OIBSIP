@@ -47,6 +47,6 @@ This project focuses on analyzing retail sales data to identify sales trends, cu
 The project provides an overview of retail sales performance and helps identify important sales patterns, high-performing products, customer segments, and regional trends.
 
 ## 👨‍💻 Author
-**Mohammed Suhail**
+**Mohd Suhel**
 
 Data Analytics Intern – Oasis Infobyte
